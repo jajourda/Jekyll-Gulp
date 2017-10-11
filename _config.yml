@@ -20,7 +20,7 @@ github_username:  jekyll
 include:
   - "_pages"
 exclude:
-  - "/assets/"
+#  - "/assets/"
   - "/bower_components/"
   - "bower.json"
   - "gulpfile.js"
